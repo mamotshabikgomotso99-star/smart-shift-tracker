@@ -7,7 +7,7 @@ This project helps you **stay organized**, **track your hours**, and **manage ta
 
 ---
 
-## 🛠 Features
+## Features
 - Start and end work shifts with a live timer
 - Add tasks during a shift with timestamps
 - Auto-generate a clean shift summary
@@ -16,7 +16,7 @@ This project helps you **stay organized**, **track your hours**, and **manage ta
 
 ---
 
-## 💻 Tech Used
+## Tech Used
 - **HTML** – Structure and layout  
 - **CSS** – Styling for a clean UI  
 - **JavaScript** – Logic for timer, tasks, and summary  
@@ -24,7 +24,7 @@ This project helps you **stay organized**, **track your hours**, and **manage ta
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/YourUsername/smart-shift-tracker.git
