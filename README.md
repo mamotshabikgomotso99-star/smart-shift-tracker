@@ -25,8 +25,8 @@ This project helps you **stay organized**, **track your hours**, and **manage ta
 ---
 
 ## How to Use
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/YourUsername/smart-shift-tracker.git
 
-   [Live app coming soon]
+1. Open `index.html` in your browser.
+2. Add shifts using the input fields.
+3. See your shifts listed and total hours calculated.
+4. Delete shifts using the "Delete" button.
