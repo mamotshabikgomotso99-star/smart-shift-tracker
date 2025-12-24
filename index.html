@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Shift Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Smart Shift Tracker</h1>
+
+    <div class="form">
+      <input type="date" id="shift-date" placeholder="Date">
+      <input type="time" id="start-time" placeholder="Start Time">
+      <input type="time" id="end-time" placeholder="End Time">
+      <button id="add-shift">Add Shift</button>
+    </div>
+
+    <h2>Your Shifts</h2>
+    <ul id="shift-list"></ul>
+
+    <h3>Total Hours Worked: <span id="total-hours">0</span></h3>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
